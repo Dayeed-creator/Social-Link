@@ -41,3 +41,6 @@ h1 { color:hsl(0, 0%, 100%);}
 .button:hover {
   background-color:hsl(75, 94%, 57%);
 }
+img{
+  width: 100%;
+}
